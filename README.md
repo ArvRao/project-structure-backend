@@ -1,2 +1,2 @@
-# web-app-backend
-A backend project structure for social media web application using NodeJS and ExpressJS
+# project-structure-backend
+This repo contains the folder structure for a web application built using NodeJS and ExpressJS
