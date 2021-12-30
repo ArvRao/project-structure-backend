@@ -10,10 +10,9 @@ Run the following command to install all the dependencies
 ---
 Create a <code>.env</code> file in the root path and update all variables with respective values to make it available for all files.
 
-### Setup:
+### Run the server
 
-* Run the command to start the server
-    #### <code>npm start</code>
+* Run the command to start the server #### <code>npm start</code>
 
 * Server starts at port 3000
 
