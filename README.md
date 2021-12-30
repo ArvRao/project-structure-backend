@@ -3,7 +3,8 @@ This repo contains the folder structure for a web application built using NodeJS
 
 
 Run the following command to install all the dependencies
-<code>npm install</code>
+
+### <code>npm install</code>
 
 Run the command to start the server
-<code>npm run start</code>
+### <code>npm run start</code>
