@@ -16,4 +16,4 @@ Create a <code>.env</code> file in the root path and update all variables with r
 
 * Server starts at port 3000
 
-* Send a request to server at [Link text Here](http://localhost:3000)
+* Send a request to server at [http://localhost:3000](http://localhost:3000)
