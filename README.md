@@ -12,7 +12,7 @@ Create a <code>.env</code> file in the root path and update all variables with r
 
 ### Run the server
 
-* Run the command to start the server ####<code>npm start</code>
+* Run the command to start the server code>npm start</code>
 
 * Server starts at port 3000
 
