@@ -8,3 +8,6 @@ Run the following command to install all the dependencies
 
 Run the command to start the server
 ### <code>npm run start</code>
+
+---
+Create a <code>.env</code> file in the root path and update all variables with respective values to make it avaiable for all files.
